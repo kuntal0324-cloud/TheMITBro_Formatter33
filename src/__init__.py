@@ -1,1 +1,0 @@
-"""TheMITbro Formatter package."""
